@@ -13,18 +13,18 @@ The library management system in python which we are going to build will look so
 ![IssueBook](https://github.com/sushanth-04/library_mgmt_sys/assets/134486908/8d6092e5-985e-496e-9804-21442141fe6b)
 ![ReturnBook](https://github.com/sushanth-04/library_mgmt_sys/assets/134486908/3efcac6d-966a-4eb1-9ae1-60084e72194c)
 
-Project Prerequisites
-tkinter – Please run below command to install tkinter
+###Project Prerequisites
+* tkinter – Please run below command to install tkinter
 ```
 pip install tkinter
 ```
 
-pillow – Please run below command to install tkinter
+* pillow – Please run below command to install tkinter
 ```
 pip install pillow
 ```
 
-pymysql – Please run below command to install tkinter
+* pymysql – Please run below command to install tkinter
 
 ```
 pip install pymysql
