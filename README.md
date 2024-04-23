@@ -3,10 +3,10 @@
 # Library Management System in Python
 The library management system in python which we are going to build will look something like this
 
-## Home ##
+### Home ###
 ![Home](https://github.com/sushanth-04/library_mgmt_sys/assets/134486908/6a6a00b1-5e3e-4f2f-bc4c-3c03b7463446)
 
-## Operations ##
+### Operations ###
 ![Addbook](https://github.com/sushanth-04/library_mgmt_sys/assets/134486908/212f25db-7147-41ba-8abc-c3bf003be31e)
 ![DeleteBook](https://github.com/sushanth-04/library_mgmt_sys/assets/134486908/c3f77e33-f70c-4018-8d84-799d24e77630)
 ![ViewBook](https://github.com/sushanth-04/library_mgmt_sys/assets/134486908/86fefba0-d426-4826-acb5-0eeb9a1389d5)
