@@ -24,8 +24,12 @@ from IssueBook import *
 
 ## Screenshots
 ## Home ##
-![home]([https://user-images.githubusercontent.com/79204613/178750501-922a4707-7fef-4683-98b8-ba6e7ed0160f.png](https://1drv.ms/i/s!Au8IfreawJ1LgZhrKS3UQ0QmOFJkkw?e=KCNocG))
+![Home](https://github.com/sushanth-04/library_mgmt_sys/assets/134486908/6a6a00b1-5e3e-4f2f-bc4c-3c03b7463446)
 
 ## Operations ##
-![AddBook]([https://user-images.githubusercontent.com/79204613/178751076-ca6b6362-7648-4226-a6c6-bb076c3bcd7a.png](https://1drv.ms/i/s!Au8IfreawJ1LgZhsEMVDYT2QCeOZXA?e=JQGhza))
-![DeleteBook]([[https://user-images.githubusercontent.com/79204613/178751076-ca6b6362-7648-4226-a6c6-bb076c3bcd7a.png](https://1drv.ms/i/s!Au8IfreawJ1LgZhsEMVDYT2QCeOZXA?e=JQGhza](https://1drv.ms/i/s!Au8IfreawJ1LgZhttb2oKdwIAK6vvQ?e=Ex2u2A)))
+![Addbook](https://github.com/sushanth-04/library_mgmt_sys/assets/134486908/212f25db-7147-41ba-8abc-c3bf003be31e)
+![DeleteBook](https://github.com/sushanth-04/library_mgmt_sys/assets/134486908/c3f77e33-f70c-4018-8d84-799d24e77630)
+![ViewBook](https://github.com/sushanth-04/library_mgmt_sys/assets/134486908/86fefba0-d426-4826-acb5-0eeb9a1389d5)
+![IssueBook](https://github.com/sushanth-04/library_mgmt_sys/assets/134486908/8d6092e5-985e-496e-9804-21442141fe6b)
+![ReturnBook](https://github.com/sushanth-04/library_mgmt_sys/assets/134486908/3efcac6d-966a-4eb1-9ae1-60084e72194c)
+
