@@ -30,7 +30,7 @@ pymysql – Please run below command to install tkinter
 pip install pymysql
 ```
 
-##Description of Project Files
+## Description of Project Files
 Below are the project files you will get once you download and extract the Library project:
 
 main.py – which does function call to all other python files
@@ -40,8 +40,8 @@ DeleteBook.py – To Delete a book from library
 IssueBook.py – To Issue a book from library
 ReturnBook.py – To Return a book to the library
 
-##Description of Tables
-#Create Tables
+## Description of Tables
+# Create Tables
 ```sql
 create database LMS;
 create table books(bid varchar(20) primary key, title varchar(30), author varchar(30), status varchar(30));
