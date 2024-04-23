@@ -31,7 +31,7 @@ def addBook():
     root.configure(bg='#1e272e')
 
     # Add your own database name and password here to reflect in the code
-    mypass = "BVSs@240104"
+    mypass = "Password"
     mydatabase = "LMS"
 
     con = pymysql.connect(host="localhost", user="root", password=mypass, database=mydatabase)
